@@ -30,3 +30,15 @@ Error Analysis & Rule Refinement:
 - Implement Transformer-based models (BERT, GPT-4, RoBERTa) for context-aware grammar detection.
 - Expand dataset size for better generalization across L2 learner texts.
 Develop an interactive grammar feedback tool for ESL learners.
+
+💡 Note
+- For initial stage, use csv file "passive_voice.csv" and py file "code1.py"
+- For validation set, use csv file "passive_voice2.csv" and py file "validation_Set_code.py"
+
+Reference for dataset
+  Carlstrom, B., & Price, N. (2012-2014). The Gachon Learner Corpus. Available at:
+http://koreanlearnercorpusblog.blogspot.
+
+📧 Contact & Support
+- email: alif.rosyidah1999@gmai.com or ahr2153@tc.columbia.edu
+- LinkedIn: https://www.linkedin.com/in/alif-hanifatur-rosyidah/
